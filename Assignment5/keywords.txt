@@ -1,0 +1,11 @@
+key: import => numberTimes: 1
+key: class => numberTimes: 1
+key: def => numberTimes: 2
+key: None => numberTimes: 2
+key: try => numberTimes: 1
+key: for => numberTimes: 1
+key: in => numberTimes: 1
+key: if => numberTimes: 2
+key: return => numberTimes: 2
+key: except => numberTimes: 1
+key: else => numberTimes: 1

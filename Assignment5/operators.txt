@@ -1,0 +1,3 @@
+key: - => numberTimes: 2
+key: = => numberTimes: 10
+key: + => numberTimes: 1
